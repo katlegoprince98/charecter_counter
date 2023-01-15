@@ -6,3 +6,12 @@ body{
     height: 100vh;
     background-color: teal;
 }
+.main{
+    background-color: teal;
+    width: 100%;
+    max-width: 410px;
+    padding: 25px;
+    margin: 8px;
+    border-radius: 12px;
+    box-shadow: 0 8px 16px;
+}
